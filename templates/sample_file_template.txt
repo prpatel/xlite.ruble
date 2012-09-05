@@ -1,0 +1,4 @@
+Sample Variables:
+* \sample_file_template: The file name, without the file-extension
+* \/Users/prpatel/dev/titanium/xlite.ruble/templates/sample_file_template.txt: The absolute path to the current file
+* \/Users/prpatel/dev/titanium/xlite.ruble/templates: The directory path for the current file
